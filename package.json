@@ -2,7 +2,7 @@
   "name": "swtor",
   "version": "0.0.1",
   "description": "A tabletop RPG setting for Star Wars campaigns",
-  "productName": "Star Wars - The Old Republic",
+  "productName": "Star Wars - Role Playing",
   "cordovaId": "org.cordova.quasar.app",
   "capacitorId": "",
   "author": "raul.hess@gmail.com",

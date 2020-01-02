@@ -1,1 +1,22 @@
 // app global css in SCSS form
+
+.app-font {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logo-font {
+    font-family: 'Roboto Slab', serif;
+}
+
+.title-font {
+    font-family: 'Suez One', serif;
+}
+
+.bg-star-wars {
+    background-image: url('../assets/bg-sw.jpg');
+    background-size: cover;
+}
+
+.sw-container {
+    max-width: 925px; margin: 0px auto;
+}
